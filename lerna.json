@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "packages/mvc-*"
+  ],
+  "version": "1.0.16",
+  "npmClient": "yarn",
+  "useWorkspaces": true
+}
